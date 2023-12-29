@@ -1,4 +1,4 @@
-# KEKSWITCH, (By SD)
+# KEKSWITCH, (By TMZ)
 
 
 # installation:
@@ -9,7 +9,7 @@
 
 $ pip3 install cryptography
 
-$ git clone https://github.com/Contaigen-II/kekswitch.git
+$ git clone https://github.com/TMZ-429/kekswitch.git
 
 $ cd kekswitch
 
